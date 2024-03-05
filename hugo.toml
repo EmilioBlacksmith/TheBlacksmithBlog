@@ -25,7 +25,7 @@ enableEmoji = true
   #homeSubtitle = "Full Stack Depressed Dev, trying to improve..."
   # gitUrl = "https://github.com/1bl4z3r/hermit-V2/tree/staging"
 
-  justifyContent = false
+  justifyContent = true
 
   relatedPosts = true
   code_copy_button = true
@@ -42,11 +42,19 @@ enableEmoji = true
 
   [[params.socialLinks]]
     name = "x"
-    url = "https://twitter.com/"
+    url = "https://twitter.com/EmilioBlacksmit"
+
+  [[params.socialLinks]]
+    name = "instagram"
+    url = "https://www.instagram.com/emilioblacksmith/"
 
   [[params.socialLinks]]
     name = "github"
     url = "https://github.com/EmilioBlacksmith"
+
+  [[params.socialLinks]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UC1ZeE2i5QwVwhWOV-HveneQ"
 
 [menu]
 
